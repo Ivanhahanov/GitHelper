@@ -1,5 +1,5 @@
 # GitHelper
-### Befor begining
+### For begining
 ```bash
 cd GitHelper
 source venv/bin/activate
